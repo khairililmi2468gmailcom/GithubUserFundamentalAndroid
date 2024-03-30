@@ -31,7 +31,7 @@ buildConfigField "String","API_TOKEN","TOKEN DISINI"
         alt="Demo Apps2"    
         style="margin-right: 8px;"    
         width="230" />
-    <img src="demo/dark mode.gif"
+    <img src="demo/lightmode.gif"
         alt="Demo Apps2"    
         style="margin-right: 8px;"    
         width="230" />
@@ -41,7 +41,7 @@ buildConfigField "String","API_TOKEN","TOKEN DISINI"
 - Aplikasi bisa menambah user ke daftar favorite.
 - Aplikasi bisa menghapus user dari daftar favorite.
 - Halaman yang menampilkan daftar user favorite.
-- Terdapat pengaturan untuk mengganti tema.
+- Terdapat pengaturan untuk mengganti tema (DarkMode & LightMode).
 - Mempertahankan semua fitur aplikasi dan komponen yang digunakan pada Submission 1.
 
 #### Reviewer Rating 
