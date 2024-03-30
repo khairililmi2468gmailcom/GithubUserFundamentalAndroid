@@ -42,7 +42,7 @@ buildConfigField "String","API_TOKEN","TOKEN DISINI"
 - Aplikasi bisa menghapus user dari daftar favorite.
 - Halaman yang menampilkan daftar user favorite.
 - Terdapat pengaturan untuk mengganti tema.
-- Mempertahankan semua fitur aplikasi dan komponen yang digunakan pada Submission 2.
+- Mempertahankan semua fitur aplikasi dan komponen yang digunakan pada Submission 1.
 
 #### Reviewer Rating 
 :star: :star: :star: :star: :star:
