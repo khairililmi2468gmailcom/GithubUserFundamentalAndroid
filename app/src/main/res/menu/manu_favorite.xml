@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/kembali_btn"
+        android:title="@string/kembali"
+        app:showAsAction="always"
+        android:icon="@drawable/baseline_arrow_back_24"
+        />
+    <item
+        android:id="@+id/setting_btn"
+        android:title="@string/settingString"
+        app:showAsAction="always"
+        android:icon="@drawable/baseline_settings_24"
+        />
+</menu>
