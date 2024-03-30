@@ -1,5 +1,5 @@
 # GithubUserFundamentalAndroid
-Before I explain how this application works and submission checklist, I want to say **thank you** to **Dicoding Indonesia** for providing "Belajar Fundamental Aplikasi Android" class and **thank you** to **Dicoding Reviewer** for approving my third submission.
+Before I explain how this application works and submission checklist, I want to say **thank you** to **Dicoding Indonesia** for providing "Belajar Fundamental Aplikasi Android" class and **thank you** to **Dicoding Reviewer** for approving my final submission.
 ### How the app works
 1. This app will be displayed a list of Github users from Github REST API
 2. If an app user clicks on one of the Github users from the list, the details of the Github user that was clicked will be displayed
@@ -19,19 +19,19 @@ buildConfigField "String","API_TOKEN","TOKEN DISINI"
 ```
 ### Demo Apps
 <p align="center">
-    <img src="demo apps/main.gif"
+    <img src="demo/main.gif"
         alt="Demo Apps1"    
         style="margin-right: 8px;"    
         width="230" />
-    <img src="demo apps/search.gif"
+    <img src="demo/search.gif"
         alt="Demo Apps2"    
         style="margin-right: 8px;"    
         width="230" />
-    <img src="demo apps/favorite.gif"
+    <img src="demo/favorite.gif"
         alt="Demo Apps2"    
         style="margin-right: 8px;"    
         width="230" />
-    <img src="demo apps/dark mode.gif"
+    <img src="demo/dark mode.gif"
         alt="Demo Apps2"    
         style="margin-right: 8px;"    
         width="230" />
